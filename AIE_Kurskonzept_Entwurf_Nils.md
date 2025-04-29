@@ -14,12 +14,9 @@
 - Cosine Similarity zur Textähnlichkeit
 - Evaluation & Metriken in NLP
 - Accuracy, Precision, Recall, F1-Score  
+- Markdown Grundlagen und Konvertierung von Dokumenten in das Markdown Format
 
 ---
-
-> 🔧 Alle Beispiele sollten in Jupyter Notebooks umgesetzt werden, idealerweise mit echten Daten (z. B. Tweets, Nachrichten, Produktbewertungen).
-
-
 
 ### Kapitel 1: Einführung in Foundation Models und Large Language Models 
 - Was sind Foundation Models?
