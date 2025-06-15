@@ -1,4 +1,4 @@
-# Kurskonzept: AI engineering - building applications with foundation models
+# Kurskonzept: AI Engineering - Building applications with foundation models
 
 ## 📚 Kapitelübersicht
 
@@ -17,7 +17,8 @@
 - Open-Source vs. proprietäre Modelle
 - Vergleich: OpenAI GPT, LLaMA, Gemma, Mistral, etc.
 - Auswahlkriterien (Modellgröße, Rechenaufwand, Lizenz, Use-Case, Benchmarks LLM)
-- Was sind Hyperparameter
+- Was sind Hyperparameter (Context size)
+- Quantisierung
 - Prompt-Grundlagen und Struktur
 - Output Validation
 - Prompting Strategien: Zero-Shot, Few-Shot, RAG, Chain-of-Thought etc. (Sehr gute Quelle: https://www.promptingguide.ai/techniques)
@@ -101,10 +102,3 @@
 - Evaluation & Metriken in NLP
 - Accuracy, Precision, Recall, F1-Score
 - Markdown Grundlagen und Konvertierung von Dokumenten in das Markdown Format
-
-### Offene Punke
-
-- Wo eingliedern
-- Übungsaufgaben während des Semesters
-- Welche Hardware
-- frontend?
