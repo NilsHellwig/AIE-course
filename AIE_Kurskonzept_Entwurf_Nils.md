@@ -21,6 +21,7 @@
 - Quantisierung
 - Prompt-Grundlagen und Struktur
 - Output Validation
+- Tool Calling
 - Prompting Strategien: Zero-Shot, Few-Shot, RAG, Chain-of-Thought etc. (Sehr gute Quelle: https://www.promptingguide.ai/techniques)
 
 #### Praktische Tools
@@ -102,3 +103,8 @@
 - Evaluation & Metriken in NLP
 - Accuracy, Precision, Recall, F1-Score
 - Markdown Grundlagen und Konvertierung von Dokumenten in das Markdown Format
+
+
+```
+python -m vllm.entrypoints.openai.api_server  --trust-remote-code --model google/gemma-3-4b-it --port 27090  --max-model-len 10000 --api-key token-abc123
+```
